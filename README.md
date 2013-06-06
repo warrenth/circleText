@@ -1,4 +1,4 @@
 circleText
 ==========
 
-your can draw a text circle using canvas
+you can draw a text circle using canvas
